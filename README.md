@@ -1,8 +1,7 @@
 ### Hello there! I'm [Alex](https://alexday.me) 👋
 
-- 🔭 I’m currently working on NLP research for [@JGMSInc](https://github.com/JGMSInc)
-- 🏫 I'm an incoming Ph.D. student at [Clemson University](https://clemson.edu) in the Computer Science department
-- 🌱 I’m currently learning C/C++ and Collision Avoidance
+- 🏫 I'm an first year Ph.D. student at [Clemson University](https://clemson.edu) in the Computer Science department
+- 🌱 I’m currently learning Network Science, Artificial Intelligence, and Data Visualization
 - 📫 If you have questions email me at [adday@clemson.edu](mailto://adday@clemson.edu) or [alexday135@gmail.com](mailto:alexday135@gmail.com)
 
 
