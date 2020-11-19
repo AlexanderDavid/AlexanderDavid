@@ -1,4 +1,4 @@
-### Hello there! I'm [Alex](https://alexday.me) 👋
+### [Hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc) I'm [Alex](https://alexday.me) 👋
 
 - 🏫 I'm an first year Ph.D. student at [Clemson University](https://clemson.edu) in the Computer Science department
 - 🌱 I’m currently learning Network Science, Artificial Intelligence, and Data Visualization
