@@ -1,11 +1,8 @@
 ### [Hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc) I'm [Alex](https://alexday.me) 👋
 
-- 🏫 I'm an third year Ph.D. student at [Clemson University](https://clemson.edu) in the Computer Science department
-- 🌱 I’m currently taking classes in Motion Planning
-- 🎓 I'm currently researching how robots interact with humans and how we can make that better
+- 🏫 I got my M.S. in Computer Science at [Clemson University](https://clemson.edu) in December 2023
+- 🎓 While at Clemson I researched under Dr. Karamouzas in the Motion Planning Lab
 - 📫 If you have questions email me at [alex@alexday.me](mailto://alex@alexday.me)
-
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderDavid&show_icons=true&count_private=true" alt="My github stats" />
